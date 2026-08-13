@@ -1,0 +1,267 @@
+{
+  "metadata": {
+    "title": "Majesta Renovations inc — entrepreneur en rénovation licencié RBQ à Montréal",
+    "titleTemplate": "{page} | Majesta Renovations inc",
+    "description": "Entrepreneur en rénovation licencié RBQ, établi à Saint-Laurent, Montréal. Cuisines, salles de bain, sous-sols, agrandissements et locaux commerciaux dans les cinq régions de Montréal. Coté 5,0 sur 23 avis. Soumission gratuite, réponse en 1 à 2 heures.",
+    "keywords": "rénovation Montréal, entrepreneur général Montréal, rénovation cuisine, rénovation salle de bain, rénovation sous-sol, agrandissement de maison, licencié RBQ, Saint-Laurent",
+    "ogImageAlt": "Majesta Renovations inc — entrepreneur en rénovation à Montréal, licence RBQ 5870-0170-01",
+    "localeName": "Français"
+  },
+
+  "nav": {
+    "services": "Services",
+    "projects": "Réalisations",
+    "about": "À propos",
+    "process": "Notre démarche",
+    "testimonials": "Avis",
+    "areas": "Territoire desservi",
+    "contact": "Contact"
+  },
+
+  "common": {
+    "freeQuote": "Soumission gratuite",
+    "getFreeQuote": "Obtenir une soumission gratuite",
+    "callNow": "Appeler",
+    "callUs": "Appeler le {phone}",
+    "learnMore": "En savoir plus",
+    "close": "Fermer",
+    "previous": "Précédent",
+    "next": "Suivant",
+    "loading": "Chargement",
+    "required": "obligatoire",
+    "optional": "facultatif",
+    "todo": "À VENIR",
+    "rbqLicence": "Licence RBQ",
+    "starRating": "{value} étoiles sur 5",
+    "reviewCount": "{count, plural, one {# avis} other {# avis}}"
+  },
+
+  "header": {
+    "skipToContent": "Aller au contenu principal",
+    "homeLink": "Majesta Renovations — retour à l'accueil",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "menuTitle": "Menu",
+    "primaryNav": "Principale",
+    "switchToFrench": "Switch to English",
+    "languageLabel": "Langue"
+  },
+
+  "hero": {
+    "eyebrow": "Montréal · RBQ 5870-0170-01",
+    "titleLine1": "Une rénovation faite",
+    "titleAccent": "correctement",
+    "titleLine2": "du premier coup.",
+    "subtitle": "Cuisines, salles de bain, sous-sols, agrandissements et locaux commerciaux partout à Montréal — planifiés, permis obtenus et réalisés par une seule équipe licenciée.",
+    "ctaPrimary": "Obtenir une soumission gratuite",
+    "ctaSecondary": "Appeler le {phone}",
+    "scrollHint": "Défiler pour explorer",
+    "imageAlt": "Illustration d'une cuisine à aire ouverte rénovée, baignée de lumière de fin d'après-midi",
+    "trust": {
+      "ratingLabel": "{value} ({count} avis)",
+      "licenceLabel": "RBQ {number}",
+      "responseLabel": "Réponse en {time}",
+      "responseValue": "1 à 2 heures"
+    }
+  },
+
+  "services": {
+    "eyebrow": "Ce que nous faisons",
+    "title": "Treize catégories de services licenciées.",
+    "subtitle": "Chaque catégorie ci-dessous figure sous notre licence RBQ. Les travaux de cuisine, de salle de bain et de sous-sol incluent l'électricité et la plomberie : un seul contrat couvre tout le chantier.",
+    "cta": "Discutons de votre projet",
+    "cardCta": "Obtenir une soumission"
+  },
+
+  "projects": {
+    "eyebrow": "Galerie",
+    "title": "Le genre de projets que nous réalisons.",
+    "subtitle": "Filtrez par type de pièce. Chaque image est une illustration générée qui remplace de vraies photos de chantier — consultez les notes du dépôt avant la mise en ligne.",
+    "placeholderNotice": "Illustrations — il ne s'agit pas de photos de projets réalisés.",
+    "filters": {
+      "all": "Tout",
+      "kitchen": "Cuisines",
+      "bathroom": "Salles de bain",
+      "basement": "Sous-sols",
+      "addition": "Agrandissements",
+      "commercial": "Commercial"
+    },
+    "emptyState": "Aucune réalisation dans cette catégorie pour l'instant.",
+    "lightbox": {
+      "label": "Visionneuse d'images",
+      "counter": "{current} sur {total}",
+      "close": "Fermer la visionneuse",
+      "previous": "Image précédente",
+      "next": "Image suivante",
+      "openLabel": "Ouvrir {title} dans la visionneuse"
+    },
+    "beforeAfter": {
+      "eyebrow": "Avant / après",
+      "title": "Glissez pour comparer.",
+      "before": "Avant",
+      "after": "Après",
+      "instruction": "Glissez la poignée, ou sélectionnez-la et utilisez les flèches.",
+      "sliderLabel": "Position de comparaison pour {title}",
+      "sliderValueText": "{value} % de l'image après visible"
+    }
+  },
+
+  "about": {
+    "eyebrow": "À propos de Majesta",
+    "title": "Licenciés, d'ici, et responsables de tout le chantier.",
+    "lead": "Majesta Renovations inc est un entrepreneur en rénovation résidentielle et commerciale établi à Saint-Laurent, Montréal.",
+    "body1": "Nous détenons la licence RBQ 5870-0170-01, qui couvre les treize catégories de services présentées sur ce site — d'une seule salle de bain à un agrandissement complet avec plans. Comme la licence couvre l'électricité et la plomberie pour les travaux de cuisine, de salle de bain et de sous-sol, vous n'avez pas à coordonner vous-même plusieurs corps de métier.",
+    "body2": "Nous travaillons partout sur l'île : Montréal Centre, Est, Nord, le West Island et le Sud. Les appels et les demandes de soumission reçoivent une réponse en une à deux heures. Sur 23 avis, notre cote s'établit à 5,0.",
+    "licenceBadge": {
+      "label": "Licence RBQ",
+      "verified": "Vérifiée le {date}",
+      "verify": "Vérifier au registre de la RBQ",
+      "note": "Vérifiez toujours la licence d'un entrepreneur avant de signer."
+    },
+    "imageAlt": "Illustration d'un intérieur en cours de rénovation : montants apparents, toiles de protection et niveau posé sur un tréteau",
+    "stats": {
+      "ratingLabel": "Cote Google",
+      "reviewsLabel": "Avis",
+      "servicesLabel": "Catégories de services licenciées",
+      "areasLabel": "Régions de Montréal desservies"
+    }
+  },
+
+  "process": {
+    "eyebrow": "Comment ça se passe",
+    "title": "Cinq étapes, sans surprise.",
+    "subtitle": "La même séquence sur chaque projet, qu'il s'agisse d'une salle de bain ou d'un rez-de-chaussée complet.",
+    "stepLabel": "Étape {number}"
+  },
+
+  "testimonials": {
+    "eyebrow": "Avis",
+    "title": "Coté 5,0 sur 23 avis.",
+    "subtitle": "La cote globale ci-dessous est vérifiée. Le texte des avis individuels n'est pas encore publié sur ce site — des espaces réservés sont affichés plutôt que des citations inventées.",
+    "aggregate": "{value} en moyenne · {count} avis",
+    "source": "Source : {source}",
+    "placeholder": {
+      "title": "Avis à venir",
+      "body": "Insérez ici les vrais avis Google.",
+      "note": "Cette diapositive est un espace réservé. Remplacez-la dans content/site-data.json et supprimez la clé __PLACEHOLDER__ — voir content/MISSING.md."
+    },
+    "carouselLabel": "Avis des clients",
+    "slideLabel": "Avis {current} sur {total}",
+    "goToSlide": "Aller à l'avis {number}",
+    "pause": "Mettre le défilement en pause",
+    "play": "Reprendre le défilement"
+  },
+
+  "areas": {
+    "eyebrow": "Où nous travaillons",
+    "title": "Les cinq régions de Montréal.",
+    "subtitle": "Établis à Saint-Laurent, actifs partout sur l'île. Si vous êtes près d'une limite, appelez-nous : nous vous le dirons tout de suite.",
+    "boroughsLabel": "Comprend",
+    "mapAlt": "Carte stylisée de l'île de Montréal indiquant les cinq régions desservies",
+    "notListed": "Vous ne savez pas si vous êtes desservi ?",
+    "notListedCta": "Appelez le {phone}"
+  },
+
+  "ctaBand": {
+    "title": "Dites-nous ce que vous voulez changer.",
+    "body": "Envoyez-nous les détails et vous recevrez une réponse en une à deux heures, avec les prochaines étapes et un moment pour la visite.",
+    "cta": "Obtenir une soumission gratuite",
+    "or": "ou appelez le",
+    "imageAlt": "Illustration d'un intérieur rénové servant d'arrière-plan à la bande d'appel à l'action"
+  },
+
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Demandez une soumission gratuite.",
+    "subtitle": "Remplissez ce que vous savez. Rien n'est engageant — cela nous permet simplement d'arriver préparés.",
+    "details": {
+      "title": "Nous joindre directement",
+      "phoneLabel": "Téléphone",
+      "phoneNote": "Réponse en 1 à 2 heures",
+      "emailLabel": "Courriel",
+      "emailTodo": "Aucune adresse courriel publiée pour l'instant",
+      "addressLabel": "Bureau",
+      "directions": "Obtenir l'itinéraire",
+      "hoursLabel": "Heures d'ouverture",
+      "hoursTodo": "Heures non publiées — appelez-nous et nous vous confirmerons",
+      "licenceLabel": "Licence RBQ",
+      "mapTitle": "Carte indiquant le bureau de Majesta Renovations au 2177, boulevard Thimens, Saint-Laurent",
+      "mapFallback": "Ouvrir l'emplacement du bureau dans Google Maps"
+    },
+    "form": {
+      "legend": "Détails du projet",
+      "nameLabel": "Nom complet",
+      "namePlaceholder": "Jean Tremblay",
+      "emailLabel": "Courriel",
+      "emailPlaceholder": "vous@exemple.com",
+      "phoneLabel": "Téléphone",
+      "phonePlaceholder": "(514) 555-0123",
+      "postalCodeLabel": "Code postal du projet",
+      "postalCodePlaceholder": "H4R 0E6",
+      "postalCodeHint": "Nous aide à confirmer que le projet est dans notre territoire.",
+      "serviceLabel": "Service requis",
+      "servicePlaceholder": "Choisir un service",
+      "budgetLabel": "Fourchette budgétaire",
+      "budgetPlaceholder": "Choisir une fourchette",
+      "contactMethodLabel": "Mode de contact préféré",
+      "languageLabel": "Langue préférée",
+      "languageFr": "Français",
+      "languageEn": "Anglais",
+      "messageLabel": "Description du projet",
+      "messagePlaceholder": "Qu'aimeriez-vous changer ? Les dimensions approximatives, l'échéancier et ce qui est déjà décidé nous aident beaucoup.",
+      "messageHint": "{count} / {max} caractères",
+      "consentNote": "En envoyant ce formulaire, vous acceptez d'être contacté au sujet de votre demande. Vos coordonnées ne sont transmises à personne d'autre.",
+      "submit": "Envoyer la demande",
+      "submitting": "Envoi en cours…",
+      "requiredLegend": "Les champs marqués {marker} sont obligatoires.",
+      "honeypotLabel": "Laissez ce champ vide",
+      "successTitle": "Demande envoyée",
+      "successBody": "Merci. Nous vous répondrons d'ici une à deux heures.",
+      "errorTitle": "Envoi impossible",
+      "errorBody": "Une erreur est survenue lors de l'envoi. Appelez le {phone} et nous prendrons les détails au téléphone.",
+      "savedTitle": "Demande reçue",
+      "savedBody": "L'envoi par courriel n'est pas encore configuré, mais votre demande a été enregistrée et nous parviendra. Vous pouvez aussi appeler le {phone}.",
+      "rateLimitTitle": "Un instant",
+      "rateLimitBody": "Vous venez d'envoyer une demande. Réessayez dans {seconds} secondes, ou appelez le {phone}."
+    },
+    "validation": {
+      "nameMin": "Veuillez entrer votre nom (au moins 2 caractères).",
+      "nameMax": "Ce nom est trop long.",
+      "emailInvalid": "Veuillez entrer une adresse courriel valide.",
+      "phoneInvalid": "Entrez un numéro de téléphone canadien, par exemple (514) 555-0123.",
+      "postalCodeInvalid": "Entrez un code postal québécois valide, par exemple H4R 0E6.",
+      "serviceRequired": "Veuillez choisir le service dont vous avez besoin.",
+      "budgetRequired": "Veuillez choisir une fourchette budgétaire.",
+      "contactMethodRequired": "Veuillez choisir un mode de contact.",
+      "languageRequired": "Veuillez choisir une langue préférée.",
+      "messageMin": "Veuillez décrire le projet en au moins 20 caractères.",
+      "messageMax": "Veuillez limiter la description à {max} caractères.",
+      "botDetected": "Votre demande n'a pas pu être traitée."
+    }
+  },
+
+  "footer": {
+    "tagline": "Rénovation résidentielle et commerciale licenciée RBQ, partout sur l'île de Montréal.",
+    "navTitle": "Navigation",
+    "servicesTitle": "Services",
+    "contactTitle": "Contact",
+    "areasTitle": "Territoire desservi",
+    "licenceLine": "Licence RBQ {number}",
+    "legalName": "Légalement {name}",
+    "rights": "© {year} {name}. Tous droits réservés.",
+    "backToTop": "Retour en haut",
+    "placeholderNotice": "Toutes les images de ce site sont des illustrations temporaires, en attente de vraies photos de chantier."
+  },
+
+  "notFound": {
+    "title": "Page introuvable",
+    "body": "Cette page n'existe pas. Elle a peut-être été déplacée, ou le lien n'est plus à jour.",
+    "cta": "Retour à l'accueil"
+  },
+
+  "error": {
+    "title": "Une erreur est survenue",
+    "body": "Une erreur inattendue s'est produite. Réessayez, ou appelez le {phone} si vous devez nous joindre immédiatement.",
+    "retry": "Réessayer"
+  }
+}

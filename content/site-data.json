@@ -1,0 +1,637 @@
+{
+  "_readme": "VERIFIED BLOCK: the keys name, legalName, phone, address, license, rating, responseTime, services and serviceAreas are the verified company record and must not be edited without a new verification pass. Everything below `_derived` is presentation structure layered on top of it. See content/MISSING.md for what could NOT be verified.",
+
+  "name": "Majesta Renovations inc",
+  "legalName": "Majesta Renovations Ltée",
+  "phone": "(438) 886-1787",
+  "address": {
+    "street": "2177 Boulevard Thimens, Suite 305",
+    "city": "Saint-Laurent, Montreal",
+    "province": "QC",
+    "postalCode": "H4R 0E6",
+    "country": "Canada"
+  },
+  "license": { "type": "RBQ", "number": "5870-0170-01", "verified": "2026-08-13" },
+  "rating": { "value": 5.0, "count": 23, "source": "Google / Duddus" },
+  "responseTime": "1-2 hours",
+  "services": [
+    "General renovations",
+    "Kitchen renovations (incl. electrical & plumbing)",
+    "Bathroom renovations (incl. electrical & plumbing)",
+    "Basement renovations (incl. electrical & plumbing)",
+    "Home additions & extensions (with plans)",
+    "Whole-house / ground floor renovation",
+    "Interior & exterior renovation",
+    "Commercial & office space renovation",
+    "Rental property renovation",
+    "Garage renovation",
+    "Post-disaster restoration",
+    "Home accessibility adaptation",
+    "Interior excavation (crawl space / basement)"
+  ],
+  "serviceAreas": [
+    "Montreal Centre — Saint-Léonard to Notre-Dame-de-Grâce",
+    "Montreal East — Anjou to the bridge",
+    "Montreal North — Saint-Laurent to Montréal-Nord",
+    "West Island — Pierrefonds to Senneville",
+    "Montreal South — Lachine to Verdun"
+  ],
+
+  "_derived": "--- everything below is presentation structure, not verified company record ---",
+
+  "unverified": {
+    "email": "TODO_EMAIL",
+    "hours": null,
+    "foundedYear": null,
+    "team": null,
+    "social": []
+  },
+
+  "geo": {
+    "_note": "Approximate coordinates for 2177 Boulevard Thimens, Saint-Laurent QC. Used only to centre the embedded map; not part of the verified record.",
+    "latitude": 45.5088,
+    "longitude": -73.7233,
+    "mapQuery": "2177 Boulevard Thimens, Saint-Laurent, QC H4R 0E6"
+  },
+
+  "serviceCatalog": [
+    {
+      "slug": "general",
+      "category": "general",
+      "icon": "Hammer",
+      "image": "/images/service-general.webp",
+      "name": {
+        "en": "General renovations",
+        "fr": "Rénovations générales"
+      },
+      "blurb": {
+        "en": "Full-scope residential renovation managed end to end — demolition, framing, finishes and final walkthrough, with one point of contact for the whole job.",
+        "fr": "Rénovation résidentielle complète, gérée du début à la fin — démolition, charpente, finitions et inspection finale, avec un seul interlocuteur pour tout le chantier."
+      },
+      "alt": {
+        "en": "Illustration of a renovated open living space with a warm neutral palette",
+        "fr": "Illustration d'un espace de vie rénové aux tons neutres et chauds"
+      }
+    },
+    {
+      "slug": "kitchen",
+      "category": "kitchen",
+      "icon": "ChefHat",
+      "image": "/images/service-kitchen.webp",
+      "name": {
+        "en": "Kitchen renovations (incl. electrical & plumbing)",
+        "fr": "Rénovations - Cuisine"
+      },
+      "blurb": {
+        "en": "Cabinetry, countertops, backsplash, flooring and lighting — including the electrical and plumbing rough-in, so the whole kitchen is handled by one team.",
+        "fr": "Armoires, comptoirs, dosseret, plancher et éclairage — incluant l'électricité et la plomberie brute, pour que toute la cuisine soit prise en charge par une seule équipe."
+      },
+      "alt": {
+        "en": "Illustration of a finished kitchen with an island, upper cabinets and pendant lighting",
+        "fr": "Illustration d'une cuisine terminée avec îlot, armoires hautes et luminaires suspendus"
+      }
+    },
+    {
+      "slug": "bathroom",
+      "category": "bathroom",
+      "icon": "ShowerHead",
+      "image": "/images/service-bathroom.webp",
+      "name": {
+        "en": "Bathroom renovations (incl. electrical & plumbing)",
+        "fr": "Rénovations - Salle de bain"
+      },
+      "blurb": {
+        "en": "Walk-in showers, tiling, waterproofing, vanities and ventilation, with the electrical and plumbing work carried out as part of the same contract.",
+        "fr": "Douches à l'italienne, céramique, imperméabilisation, vanités et ventilation, avec les travaux d'électricité et de plomberie inclus au même contrat."
+      },
+      "alt": {
+        "en": "Illustration of a renovated bathroom with a tiled walk-in shower",
+        "fr": "Illustration d'une salle de bain rénovée avec douche à l'italienne en céramique"
+      }
+    },
+    {
+      "slug": "basement",
+      "category": "basement",
+      "icon": "Layers",
+      "image": "/images/service-basement.webp",
+      "name": {
+        "en": "Basement renovations (incl. electrical & plumbing)",
+        "fr": "Rénovations - Sous-sol"
+      },
+      "blurb": {
+        "en": "Turning an unfinished basement into usable space — insulation, framing, flooring, egress, plus the electrical and plumbing a full basement build needs.",
+        "fr": "Transformer un sous-sol non fini en espace habitable — isolation, charpente, plancher, issue de secours, plus l'électricité et la plomberie nécessaires."
+      },
+      "alt": {
+        "en": "Illustration of a finished basement living space with recessed lighting",
+        "fr": "Illustration d'un sous-sol aménagé en espace de vie avec éclairage encastré"
+      }
+    },
+    {
+      "slug": "addition",
+      "category": "addition",
+      "icon": "Ruler",
+      "image": "/images/service-addition.webp",
+      "name": {
+        "en": "Home additions & extensions (with plans)",
+        "fr": "Agrandissement de maison"
+      },
+      "blurb": {
+        "en": "Adding square footage to an existing home, with plans prepared for the work and the municipal permit process handled as part of the project.",
+        "fr": "Ajouter de la superficie à une maison existante, avec plans préparés pour les travaux et le processus de permis municipal pris en charge dans le projet."
+      },
+      "alt": {
+        "en": "Illustration of a home addition seen from outside, with new roofline and windows",
+        "fr": "Illustration d'un agrandissement de maison vu de l'extérieur, avec nouvelle toiture et fenêtres"
+      }
+    },
+    {
+      "slug": "whole-house",
+      "category": "general",
+      "icon": "House",
+      "image": "/images/service-whole-house.webp",
+      "name": {
+        "en": "Whole-house / ground floor renovation",
+        "fr": "Rénovation complète / rez-de-chaussée"
+      },
+      "blurb": {
+        "en": "Reworking an entire floor or an entire house — opening up the layout, replacing finishes throughout, and sequencing the trades so the site keeps moving.",
+        "fr": "Refaire un étage complet ou une maison entière — ouvrir l'aménagement, remplacer les finitions partout et coordonner les corps de métier pour garder le chantier en mouvement."
+      },
+      "alt": {
+        "en": "Illustration of an open-plan ground floor after a whole-house renovation",
+        "fr": "Illustration d'un rez-de-chaussée à aire ouverte après une rénovation complète"
+      }
+    },
+    {
+      "slug": "interior-exterior",
+      "category": "general",
+      "icon": "Paintbrush",
+      "image": "/images/service-interior-exterior.webp",
+      "name": {
+        "en": "Interior & exterior renovation",
+        "fr": "Rénovation Int. / Ext."
+      },
+      "blurb": {
+        "en": "Interior finishing and exterior envelope work under one contract — drywall, trim, paint and flooring inside; cladding, doors and windows outside.",
+        "fr": "Finition intérieure et travaux d'enveloppe extérieure sous un même contrat — gypse, moulures, peinture et planchers à l'intérieur; revêtement, portes et fenêtres à l'extérieur."
+      },
+      "alt": {
+        "en": "Illustration pairing an interior wall finish with an exterior facade detail",
+        "fr": "Illustration associant une finition de mur intérieur à un détail de façade extérieure"
+      }
+    },
+    {
+      "slug": "commercial",
+      "category": "commercial",
+      "icon": "Building2",
+      "image": "/images/service-commercial.webp",
+      "name": {
+        "en": "Commercial & office space renovation",
+        "fr": "Rénovations - Local Commercial/Bureau"
+      },
+      "blurb": {
+        "en": "Fit-outs for offices, retail units and commercial suites — partitions, ceilings, lighting and flooring, scheduled around your operating hours.",
+        "fr": "Aménagement de bureaux, locaux commerciaux et suites — cloisons, plafonds, éclairage et planchers, planifiés autour de vos heures d'exploitation."
+      },
+      "alt": {
+        "en": "Illustration of a completed office fit-out with glass partitions and linear lighting",
+        "fr": "Illustration d'un aménagement de bureau terminé avec cloisons vitrées et éclairage linéaire"
+      }
+    },
+    {
+      "slug": "rental",
+      "category": "general",
+      "icon": "KeyRound",
+      "image": "/images/service-rental.webp",
+      "name": {
+        "en": "Rental property renovation",
+        "fr": "Rénovation Logement Locatif"
+      },
+      "blurb": {
+        "en": "Turnover and upgrade work on rental units, planned around tenancy dates and specified for finishes that hold up to repeated occupancy.",
+        "fr": "Travaux de remise en état et d'amélioration de logements locatifs, planifiés selon les dates de location et avec des finitions qui résistent aux occupations répétées."
+      },
+      "alt": {
+        "en": "Illustration of a refreshed rental unit interior ready for handover",
+        "fr": "Illustration d'un logement locatif rafraîchi prêt à être remis"
+      }
+    },
+    {
+      "slug": "garage",
+      "category": "general",
+      "icon": "Warehouse",
+      "image": "/images/service-garage.webp",
+      "name": {
+        "en": "Garage renovation",
+        "fr": "Rénovations - Garage"
+      },
+      "blurb": {
+        "en": "Repairing, insulating and finishing attached or detached garages, including slab repair, wall finishes, doors and lighting.",
+        "fr": "Réparation, isolation et finition de garages attenants ou détachés, incluant la réparation de dalle, la finition des murs, les portes et l'éclairage."
+      },
+      "alt": {
+        "en": "Illustration of a finished garage interior with a sealed floor",
+        "fr": "Illustration d'un intérieur de garage fini avec plancher scellé"
+      }
+    },
+    {
+      "slug": "post-disaster",
+      "category": "general",
+      "icon": "Droplets",
+      "image": "/images/service-post-disaster.webp",
+      "name": {
+        "en": "Post-disaster restoration",
+        "fr": "Rénovations - Après sinistre"
+      },
+      "blurb": {
+        "en": "Rebuilding after water, fire or other damage — removing affected materials, restoring the structure, and putting the space back to a finished state.",
+        "fr": "Reconstruction après un dégât d'eau, un incendie ou autre sinistre — retrait des matériaux touchés, remise en état de la structure et retour à un espace fini."
+      },
+      "alt": {
+        "en": "Illustration of a room stripped back to structure during post-disaster restoration",
+        "fr": "Illustration d'une pièce mise à nu jusqu'à la structure lors d'une restauration après sinistre"
+      }
+    },
+    {
+      "slug": "accessibility",
+      "category": "bathroom",
+      "icon": "Accessibility",
+      "image": "/images/service-accessibility.webp",
+      "name": {
+        "en": "Home accessibility adaptation",
+        "fr": "Adaptation Domiciliaire"
+      },
+      "blurb": {
+        "en": "Adapting a home for reduced mobility — roll-in showers, grab bars, widened doorways, ramps and level thresholds.",
+        "fr": "Adapter un domicile pour une mobilité réduite — douches sans seuil, barres d'appui, portes élargies, rampes et seuils de plain-pied."
+      },
+      "alt": {
+        "en": "Illustration of an accessible bathroom with grab bars and a level-entry shower",
+        "fr": "Illustration d'une salle de bain accessible avec barres d'appui et douche de plain-pied"
+      }
+    },
+    {
+      "slug": "excavation",
+      "category": "basement",
+      "icon": "Shovel",
+      "image": "/images/service-excavation.webp",
+      "name": {
+        "en": "Interior excavation (crawl space / basement)",
+        "fr": "Excavation intérieure"
+      },
+      "blurb": {
+        "en": "Lowering a crawl space or basement floor from inside the building to gain headroom, including underpinning, drainage and a new slab.",
+        "fr": "Abaisser le plancher d'un vide sanitaire ou d'un sous-sol depuis l'intérieur pour gagner de la hauteur, incluant la sous-œuvre, le drainage et une nouvelle dalle."
+      },
+      "alt": {
+        "en": "Illustration of an interior excavation in progress below an existing floor",
+        "fr": "Illustration d'une excavation intérieure en cours sous un plancher existant"
+      }
+    }
+  ],
+
+  "serviceAreaDetail": [
+    {
+      "slug": "centre",
+      "name": { "en": "Montreal Centre", "fr": "Montréal Centre" },
+      "range": {
+        "en": "Saint-Léonard to Notre-Dame-de-Grâce",
+        "fr": "De Saint-Léonard à Notre-Dame-de-Grâce"
+      },
+      "boroughs": [
+        "Saint-Léonard",
+        "Rosemont–La Petite-Patrie",
+        "Le Plateau-Mont-Royal",
+        "Ville-Marie",
+        "Côte-des-Neiges",
+        "Notre-Dame-de-Grâce"
+      ]
+    },
+    {
+      "slug": "east",
+      "name": { "en": "Montreal East", "fr": "Montréal Est" },
+      "range": { "en": "Anjou to the bridge", "fr": "D'Anjou jusqu'au pont" },
+      "boroughs": [
+        "Anjou",
+        "Mercier–Hochelaga-Maisonneuve",
+        "Rivière-des-Prairies–Pointe-aux-Trembles",
+        "Montréal-Est"
+      ]
+    },
+    {
+      "slug": "north",
+      "name": { "en": "Montreal North", "fr": "Montréal Nord" },
+      "range": {
+        "en": "Saint-Laurent to Montréal-Nord",
+        "fr": "De Saint-Laurent à Montréal-Nord"
+      },
+      "boroughs": [
+        "Saint-Laurent",
+        "Ahuntsic-Cartierville",
+        "Villeray–Saint-Michel–Parc-Extension",
+        "Montréal-Nord"
+      ]
+    },
+    {
+      "slug": "west-island",
+      "name": { "en": "West Island", "fr": "West Island" },
+      "range": {
+        "en": "Pierrefonds to Senneville",
+        "fr": "De Pierrefonds à Senneville"
+      },
+      "boroughs": [
+        "Pierrefonds-Roxboro",
+        "Dollard-des-Ormeaux",
+        "Kirkland",
+        "Beaconsfield",
+        "Sainte-Anne-de-Bellevue",
+        "Senneville"
+      ]
+    },
+    {
+      "slug": "south",
+      "name": { "en": "Montreal South", "fr": "Montréal Sud" },
+      "range": { "en": "Lachine to Verdun", "fr": "De Lachine à Verdun" },
+      "boroughs": [
+        "Lachine",
+        "LaSalle",
+        "Le Sud-Ouest",
+        "Verdun",
+        "Île-des-Sœurs"
+      ]
+    }
+  ],
+
+  "process": [
+    {
+      "slug": "consultation",
+      "icon": "MessagesSquare",
+      "title": { "en": "Consultation", "fr": "Consultation" },
+      "body": {
+        "en": "We visit the property, look at what you want to change, and talk through what the space will allow. Calls and messages are answered in 1–2 hours.",
+        "fr": "Nous visitons la propriété, regardons ce que vous voulez changer et discutons de ce que l'espace permet. Appels et messages répondus en 1 à 2 heures."
+      }
+    },
+    {
+      "slug": "estimate",
+      "icon": "FileText",
+      "title": { "en": "Estimate", "fr": "Soumission" },
+      "body": {
+        "en": "You receive a written estimate broken down by scope, so you can see what each part of the work costs before anything is committed.",
+        "fr": "Vous recevez une soumission écrite détaillée par lot de travaux, pour voir le coût de chaque partie avant tout engagement."
+      }
+    },
+    {
+      "slug": "permits",
+      "icon": "Stamp",
+      "title": { "en": "Plans & permits", "fr": "Plans et permis" },
+      "body": {
+        "en": "Where the work requires them, plans are prepared and municipal permits are filed. Work is carried out under RBQ licence 5870-0170-01.",
+        "fr": "Lorsque les travaux l'exigent, les plans sont préparés et les permis municipaux déposés. Travaux réalisés sous la licence RBQ 5870-0170-01."
+      }
+    },
+    {
+      "slug": "build",
+      "icon": "Hammer",
+      "title": { "en": "Build", "fr": "Réalisation" },
+      "body": {
+        "en": "Demolition, structure, mechanical rough-in and finishes, sequenced trade by trade. The site is protected and cleaned at the end of each stage.",
+        "fr": "Démolition, structure, installations mécaniques et finitions, coordonnées corps de métier par corps de métier. Le chantier est protégé et nettoyé à chaque étape."
+      }
+    },
+    {
+      "slug": "walkthrough",
+      "icon": "ClipboardCheck",
+      "title": { "en": "Walkthrough", "fr": "Inspection finale" },
+      "body": {
+        "en": "We walk the finished space with you and build a deficiency list. Nothing is called complete until every item on that list is closed off.",
+        "fr": "Nous parcourons l'espace terminé avec vous et dressons une liste de déficiences. Rien n'est considéré terminé tant que chaque point n'est pas réglé."
+      }
+    }
+  ],
+
+  "gallery": [
+    {
+      "id": "kitchen-01",
+      "category": "kitchen",
+      "src": "/images/gallery-kitchen-01.webp",
+      "aspect": "4/3",
+      "title": { "en": "Open-plan kitchen", "fr": "Cuisine à aire ouverte" },
+      "alt": {
+        "en": "Illustration of an open-plan kitchen with a full-height cabinet run and island seating",
+        "fr": "Illustration d'une cuisine à aire ouverte avec armoires pleine hauteur et îlot avec places assises"
+      }
+    },
+    {
+      "id": "kitchen-02",
+      "category": "kitchen",
+      "src": "/images/gallery-kitchen-02.webp",
+      "aspect": "3/4",
+      "title": { "en": "Galley kitchen", "fr": "Cuisine en couloir" },
+      "alt": {
+        "en": "Illustration of a narrow galley kitchen with a tiled backsplash and under-cabinet lighting",
+        "fr": "Illustration d'une cuisine en couloir avec dosseret en céramique et éclairage sous les armoires"
+      }
+    },
+    {
+      "id": "bathroom-01",
+      "category": "bathroom",
+      "src": "/images/gallery-bathroom-01.webp",
+      "aspect": "3/4",
+      "title": { "en": "Tiled walk-in shower", "fr": "Douche à l'italienne" },
+      "alt": {
+        "en": "Illustration of a bathroom with a fully tiled walk-in shower and glass panel",
+        "fr": "Illustration d'une salle de bain avec douche à l'italienne entièrement carrelée et panneau de verre"
+      }
+    },
+    {
+      "id": "bathroom-02",
+      "category": "bathroom",
+      "src": "/images/gallery-bathroom-02.webp",
+      "aspect": "4/3",
+      "title": { "en": "Accessible bathroom", "fr": "Salle de bain adaptée" },
+      "alt": {
+        "en": "Illustration of an accessible bathroom with grab bars beside a level-entry shower",
+        "fr": "Illustration d'une salle de bain adaptée avec barres d'appui près d'une douche de plain-pied"
+      }
+    },
+    {
+      "id": "basement-01",
+      "category": "basement",
+      "src": "/images/gallery-basement-01.webp",
+      "aspect": "4/3",
+      "title": { "en": "Finished basement", "fr": "Sous-sol aménagé" },
+      "alt": {
+        "en": "Illustration of a finished basement living area with recessed ceiling lights",
+        "fr": "Illustration d'un sous-sol aménagé en salon avec plafonniers encastrés"
+      }
+    },
+    {
+      "id": "basement-02",
+      "category": "basement",
+      "src": "/images/gallery-basement-02.webp",
+      "aspect": "4/3",
+      "title": { "en": "Basement excavation", "fr": "Excavation de sous-sol" },
+      "alt": {
+        "en": "Illustration of an interior excavation lowering a basement floor level",
+        "fr": "Illustration d'une excavation intérieure abaissant le niveau du plancher de sous-sol"
+      }
+    },
+    {
+      "id": "addition-01",
+      "category": "addition",
+      "src": "/images/gallery-addition-01.webp",
+      "aspect": "4/3",
+      "title": { "en": "Rear extension", "fr": "Agrandissement arrière" },
+      "alt": {
+        "en": "Illustration of a rear home extension with large windows and a new roofline",
+        "fr": "Illustration d'un agrandissement arrière avec grandes fenêtres et nouvelle toiture"
+      }
+    },
+    {
+      "id": "addition-02",
+      "category": "addition",
+      "src": "/images/gallery-addition-02.webp",
+      "aspect": "3/4",
+      "title": { "en": "Second-storey addition", "fr": "Ajout d'étage" },
+      "alt": {
+        "en": "Illustration of a second-storey addition above an existing single-storey home",
+        "fr": "Illustration d'un ajout d'étage au-dessus d'une maison existante d'un seul niveau"
+      }
+    },
+    {
+      "id": "commercial-01",
+      "category": "commercial",
+      "src": "/images/gallery-commercial-01.webp",
+      "aspect": "4/3",
+      "title": { "en": "Office fit-out", "fr": "Aménagement de bureau" },
+      "alt": {
+        "en": "Illustration of a completed office fit-out with glass partitions and linear ceiling lights",
+        "fr": "Illustration d'un aménagement de bureau terminé avec cloisons vitrées et éclairage linéaire au plafond"
+      }
+    },
+    {
+      "id": "commercial-02",
+      "category": "commercial",
+      "src": "/images/gallery-commercial-02.webp",
+      "aspect": "4/3",
+      "title": { "en": "Retail unit", "fr": "Local commercial" },
+      "alt": {
+        "en": "Illustration of a renovated retail unit with a storefront window and display wall",
+        "fr": "Illustration d'un local commercial rénové avec vitrine et mur d'exposition"
+      }
+    },
+    {
+      "id": "crew-01",
+      "category": "kitchen",
+      "src": "/images/crew-cabinetry.webp",
+      "aspect": "4/3",
+      "title": { "en": "Cabinetry install", "fr": "Installation d'armoires" },
+      "alt": {
+        "en": "Illustration of two contractors setting an upper cabinet against a levelled line",
+        "fr": "Illustration de deux entrepreneurs installant une armoire haute selon une ligne de niveau"
+      }
+    },
+    {
+      "id": "crew-02",
+      "category": "addition",
+      "src": "/images/crew-plans.webp",
+      "aspect": "4/3",
+      "title": { "en": "Reviewing plans on site", "fr": "Révision des plans au chantier" },
+      "alt": {
+        "en": "Illustration of a contractor reviewing drawings on a sawhorse table at a job site",
+        "fr": "Illustration d'un entrepreneur consultant des plans sur une table de chantier"
+      }
+    }
+  ],
+
+  "beforeAfter": [
+    {
+      "id": "kitchen",
+      "category": "kitchen",
+      "title": { "en": "Dated kitchen → renovated kitchen", "fr": "Cuisine désuète → cuisine rénovée" },
+      "before": {
+        "src": "/images/before-kitchen.webp",
+        "alt": {
+          "en": "Illustration of a dated kitchen with worn cabinets and a low soffit before renovation",
+          "fr": "Illustration d'une cuisine désuète aux armoires usées et au soffite bas avant rénovation"
+        }
+      },
+      "after": {
+        "src": "/images/after-kitchen.webp",
+        "alt": {
+          "en": "Illustration of the same kitchen after renovation with new cabinetry and an island",
+          "fr": "Illustration de la même cuisine après rénovation avec nouvelles armoires et îlot"
+        }
+      }
+    },
+    {
+      "id": "basement",
+      "category": "basement",
+      "title": {
+        "en": "Unfinished basement → finished basement",
+        "fr": "Sous-sol non fini → sous-sol aménagé"
+      },
+      "before": {
+        "src": "/images/before-basement.webp",
+        "alt": {
+          "en": "Illustration of an unfinished basement with exposed joists and a concrete floor",
+          "fr": "Illustration d'un sous-sol non fini avec solives apparentes et plancher de béton"
+        }
+      },
+      "after": {
+        "src": "/images/after-basement.webp",
+        "alt": {
+          "en": "Illustration of the same basement finished as a living space with flooring and lighting",
+          "fr": "Illustration du même sous-sol aménagé en espace de vie avec plancher et éclairage"
+        }
+      }
+    }
+  ],
+
+  "testimonials": [
+    {
+      "id": "placeholder-1",
+      "__PLACEHOLDER__": true,
+      "rating": 5,
+      "author": null,
+      "location": null,
+      "date": null,
+      "quote": { "en": null, "fr": null }
+    },
+    {
+      "id": "placeholder-2",
+      "__PLACEHOLDER__": true,
+      "rating": 5,
+      "author": null,
+      "location": null,
+      "date": null,
+      "quote": { "en": null, "fr": null }
+    },
+    {
+      "id": "placeholder-3",
+      "__PLACEHOLDER__": true,
+      "rating": 5,
+      "author": null,
+      "location": null,
+      "date": null,
+      "quote": { "en": null, "fr": null }
+    }
+  ],
+
+  "budgetRanges": [
+    { "value": "under-15k", "label": { "en": "Under $15,000", "fr": "Moins de 15 000 $" } },
+    { "value": "15k-35k", "label": { "en": "$15,000 – $35,000", "fr": "15 000 $ – 35 000 $" } },
+    { "value": "35k-75k", "label": { "en": "$35,000 – $75,000", "fr": "35 000 $ – 75 000 $" } },
+    { "value": "75k-150k", "label": { "en": "$75,000 – $150,000", "fr": "75 000 $ – 150 000 $" } },
+    { "value": "over-150k", "label": { "en": "Over $150,000", "fr": "Plus de 150 000 $" } },
+    { "value": "unsure", "label": { "en": "Not sure yet", "fr": "Pas encore déterminé" } }
+  ],
+
+  "contactMethods": [
+    { "value": "phone", "label": { "en": "Phone call", "fr": "Appel téléphonique" } },
+    { "value": "email", "label": { "en": "Email", "fr": "Courriel" } },
+    { "value": "text", "label": { "en": "Text message", "fr": "Message texte" } }
+  ]
+}

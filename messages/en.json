@@ -1,0 +1,267 @@
+{
+  "metadata": {
+    "title": "Majesta Renovations inc — RBQ-licensed renovation contractor in Montreal",
+    "titleTemplate": "{page} | Majesta Renovations inc",
+    "description": "RBQ-licensed renovation contractor based in Saint-Laurent, Montreal. Kitchens, bathrooms, basements, home additions and commercial fit-outs across all five Montreal regions. Rated 5.0 from 23 reviews. Free quote, answered in 1–2 hours.",
+    "keywords": "renovation Montreal, general contractor Montreal, kitchen renovation, bathroom renovation, basement renovation, home addition, RBQ licensed, Saint-Laurent",
+    "ogImageAlt": "Majesta Renovations inc — renovation contractor in Montreal, RBQ licence 5870-0170-01",
+    "localeName": "English"
+  },
+
+  "nav": {
+    "services": "Services",
+    "projects": "Projects",
+    "about": "About",
+    "process": "Process",
+    "testimonials": "Reviews",
+    "areas": "Service areas",
+    "contact": "Contact"
+  },
+
+  "common": {
+    "freeQuote": "Free quote",
+    "getFreeQuote": "Get a free quote",
+    "callNow": "Call now",
+    "callUs": "Call {phone}",
+    "learnMore": "Learn more",
+    "close": "Close",
+    "previous": "Previous",
+    "next": "Next",
+    "loading": "Loading",
+    "required": "required",
+    "optional": "optional",
+    "todo": "TODO",
+    "rbqLicence": "RBQ licence",
+    "starRating": "{value} out of 5 stars",
+    "reviewCount": "{count, plural, one {# review} other {# reviews}}"
+  },
+
+  "header": {
+    "skipToContent": "Skip to main content",
+    "homeLink": "Majesta Renovations — back to home",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "menuTitle": "Menu",
+    "primaryNav": "Primary",
+    "switchToFrench": "Passer au français",
+    "languageLabel": "Language"
+  },
+
+  "hero": {
+    "eyebrow": "Montreal · RBQ 5870-0170-01",
+    "titleLine1": "Renovation done",
+    "titleAccent": "properly",
+    "titleLine2": "the first time.",
+    "subtitle": "Kitchens, bathrooms, basements, additions and commercial fit-outs across Montreal — planned, permitted and built by one licensed team.",
+    "ctaPrimary": "Get a free quote",
+    "ctaSecondary": "Call {phone}",
+    "scrollHint": "Scroll to explore",
+    "imageAlt": "Illustration of a bright renovated open-plan kitchen in late-afternoon light",
+    "trust": {
+      "ratingLabel": "{value} ({count} reviews)",
+      "licenceLabel": "RBQ {number}",
+      "responseLabel": "Response in {time}",
+      "responseValue": "1–2 hours"
+    }
+  },
+
+  "services": {
+    "eyebrow": "What we do",
+    "title": "Thirteen licensed service categories.",
+    "subtitle": "Every category below is listed under our RBQ licence. Kitchen, bathroom and basement work includes the electrical and plumbing, so one contract covers the whole job.",
+    "cta": "Discuss your project",
+    "cardCta": "Get a quote for this"
+  },
+
+  "projects": {
+    "eyebrow": "Gallery",
+    "title": "The kind of work we take on.",
+    "subtitle": "Filter by room type. Every image here is a generated illustration standing in for real project photography — see the notes in the repository before publishing.",
+    "placeholderNotice": "Illustrations — not photographs of completed projects.",
+    "filters": {
+      "all": "All",
+      "kitchen": "Kitchens",
+      "bathroom": "Bathrooms",
+      "basement": "Basements",
+      "addition": "Additions",
+      "commercial": "Commercial"
+    },
+    "emptyState": "No projects in this category yet.",
+    "lightbox": {
+      "label": "Project image viewer",
+      "counter": "{current} of {total}",
+      "close": "Close viewer",
+      "previous": "Previous image",
+      "next": "Next image",
+      "openLabel": "Open {title} in the viewer"
+    },
+    "beforeAfter": {
+      "eyebrow": "Before / after",
+      "title": "Drag to compare.",
+      "before": "Before",
+      "after": "After",
+      "instruction": "Drag the handle, or focus it and use the arrow keys.",
+      "sliderLabel": "Comparison position for {title}",
+      "sliderValueText": "{value}% of the after image visible"
+    }
+  },
+
+  "about": {
+    "eyebrow": "About Majesta",
+    "title": "Licensed, local, and accountable for the whole job.",
+    "lead": "Majesta Renovations inc is a residential and commercial renovation contractor based in Saint-Laurent, Montreal.",
+    "body1": "We hold RBQ licence 5870-0170-01, which covers all thirteen of the service categories listed on this site — from a single bathroom to a full home addition with plans. Because the licence covers the electrical and plumbing scope on kitchen, bathroom and basement work, you are not left coordinating separate trades yourself.",
+    "body2": "We work across the whole island: Montreal Centre, East, North, the West Island and the South. Calls and quote requests are answered in one to two hours. Across 23 reviews, our rating stands at 5.0.",
+    "licenceBadge": {
+      "label": "RBQ licence",
+      "verified": "Verified {date}",
+      "verify": "Verify on the RBQ register",
+      "note": "Always confirm a contractor's licence before signing."
+    },
+    "imageAlt": "Illustration of a mid-renovation interior with exposed studs, drop sheets and a level on a sawhorse",
+    "stats": {
+      "ratingLabel": "Google rating",
+      "reviewsLabel": "Reviews",
+      "servicesLabel": "Licensed service categories",
+      "areasLabel": "Montreal regions served"
+    }
+  },
+
+  "process": {
+    "eyebrow": "How it works",
+    "title": "Five stages, no surprises.",
+    "subtitle": "The same sequence on every project, whether it is one bathroom or a full ground floor.",
+    "stepLabel": "Step {number}"
+  },
+
+  "testimonials": {
+    "eyebrow": "Reviews",
+    "title": "Rated 5.0 across 23 reviews.",
+    "subtitle": "The aggregate rating below is verified. The individual review texts are not yet published on this site — placeholders are shown rather than invented quotes.",
+    "aggregate": "{value} average · {count} reviews",
+    "source": "Source: {source}",
+    "placeholder": {
+      "title": "Reviews loading",
+      "body": "Paste real Google reviews here.",
+      "note": "This slide is a placeholder. Replace it in content/site-data.json and delete the __PLACEHOLDER__ key — see content/MISSING.md."
+    },
+    "carouselLabel": "Customer reviews",
+    "slideLabel": "Review {current} of {total}",
+    "goToSlide": "Go to review {number}",
+    "pause": "Pause autoplay",
+    "play": "Resume autoplay"
+  },
+
+  "areas": {
+    "eyebrow": "Where we work",
+    "title": "All five Montreal regions.",
+    "subtitle": "Based in Saint-Laurent, working across the island. If you are near a boundary, call and ask — we will tell you straight away.",
+    "boroughsLabel": "Includes",
+    "mapAlt": "Stylised map of the island of Montreal with the five service regions marked",
+    "notListed": "Not sure if you are covered?",
+    "notListedCta": "Call {phone}"
+  },
+
+  "ctaBand": {
+    "title": "Tell us what you want to change.",
+    "body": "Send the details and you will hear back within one to two hours with next steps and a time to visit.",
+    "cta": "Get a free quote",
+    "or": "or call",
+    "imageAlt": "Illustration of a renovated interior used as a background band"
+  },
+
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Request a free quote.",
+    "subtitle": "Fill in what you know. Nothing here is binding — it just lets us come prepared.",
+    "details": {
+      "title": "Reach us directly",
+      "phoneLabel": "Phone",
+      "phoneNote": "Answered in 1–2 hours",
+      "emailLabel": "Email",
+      "emailTodo": "No email address published yet",
+      "addressLabel": "Office",
+      "directions": "Get directions",
+      "hoursLabel": "Business hours",
+      "hoursTodo": "Hours not published yet — call and we will confirm",
+      "licenceLabel": "RBQ licence",
+      "mapTitle": "Map showing the Majesta Renovations office at 2177 Boulevard Thimens, Saint-Laurent",
+      "mapFallback": "Open the office location in Google Maps"
+    },
+    "form": {
+      "legend": "Project details",
+      "nameLabel": "Full name",
+      "namePlaceholder": "Jean Tremblay",
+      "emailLabel": "Email",
+      "emailPlaceholder": "you@example.com",
+      "phoneLabel": "Phone",
+      "phonePlaceholder": "(514) 555-0123",
+      "postalCodeLabel": "Project postal code",
+      "postalCodePlaceholder": "H4R 0E6",
+      "postalCodeHint": "Helps us confirm the project is in our service area.",
+      "serviceLabel": "Service needed",
+      "servicePlaceholder": "Select a service",
+      "budgetLabel": "Budget range",
+      "budgetPlaceholder": "Select a range",
+      "contactMethodLabel": "Preferred contact method",
+      "languageLabel": "Preferred language",
+      "languageFr": "French",
+      "languageEn": "English",
+      "messageLabel": "Project description",
+      "messagePlaceholder": "What are you looking to change? Rough room sizes, timeline and anything already decided all help.",
+      "messageHint": "{count} / {max} characters",
+      "consentNote": "By sending this you agree to be contacted about your request. Your details are not shared with anyone else.",
+      "submit": "Send request",
+      "submitting": "Sending…",
+      "requiredLegend": "Fields marked {marker} are required.",
+      "honeypotLabel": "Leave this field empty",
+      "successTitle": "Request sent",
+      "successBody": "Thank you. We will get back to you within one to two hours.",
+      "errorTitle": "Could not send",
+      "errorBody": "Something went wrong sending your request. Please call {phone} and we will take the details over the phone.",
+      "savedTitle": "Request received",
+      "savedBody": "Email delivery is not configured yet, but your request has been saved and will reach us. You can also call {phone}.",
+      "rateLimitTitle": "Please wait a moment",
+      "rateLimitBody": "You have just sent a request. Try again in {seconds} seconds, or call {phone}."
+    },
+    "validation": {
+      "nameMin": "Please enter your name (at least 2 characters).",
+      "nameMax": "That name is too long.",
+      "emailInvalid": "Please enter a valid email address.",
+      "phoneInvalid": "Enter a Canadian phone number, for example (514) 555-0123.",
+      "postalCodeInvalid": "Enter a valid Quebec postal code, for example H4R 0E6.",
+      "serviceRequired": "Please choose the service you need.",
+      "budgetRequired": "Please choose a budget range.",
+      "contactMethodRequired": "Please choose how you would like to be contacted.",
+      "languageRequired": "Please choose a preferred language.",
+      "messageMin": "Please describe the project in at least 20 characters.",
+      "messageMax": "Please keep the description under {max} characters.",
+      "botDetected": "Your submission could not be processed."
+    }
+  },
+
+  "footer": {
+    "tagline": "RBQ-licensed residential and commercial renovation across the island of Montreal.",
+    "navTitle": "Navigate",
+    "servicesTitle": "Services",
+    "contactTitle": "Contact",
+    "areasTitle": "Service areas",
+    "licenceLine": "RBQ licence {number}",
+    "legalName": "Legally {name}",
+    "rights": "© {year} {name}. All rights reserved.",
+    "backToTop": "Back to top",
+    "placeholderNotice": "All photography on this site is placeholder illustration pending real project photos."
+  },
+
+  "notFound": {
+    "title": "Page not found",
+    "body": "That page does not exist. It may have moved, or the link may be out of date.",
+    "cta": "Back to home"
+  },
+
+  "error": {
+    "title": "Something went wrong",
+    "body": "An unexpected error occurred. Try again, or call {phone} if you need to reach us right away.",
+    "retry": "Try again"
+  }
+}
