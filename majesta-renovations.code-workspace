@@ -1,0 +1,89 @@
+{
+  "folders": [
+    {
+      "name": "Majesta Renovations",
+      "path": "."
+    }
+  ],
+  "settings": {
+    // Formatting
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "explicit"
+    },
+
+    // ESLint: flat config (eslint.config.mjs) needs the new-config flag.
+    "eslint.useFlatConfig": true,
+    "eslint.experimental.useFlatConfig": true,
+    "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
+
+    // Tailwind v4: recognise cva()/cn() call sites and the CSS-based
+    // @theme tokens in globals.css so IntelliSense/hover work inside them.
+    "tailwindCSS.experimental.classRegex": [
+      ["cva\\(([^)]*)\\)", "[\"'`]([^\"'`]*).*?[\"'`]"],
+      ["cn\\(([^)]*)\\)", "[\"'`]([^\"'`]*).*?[\"'`]"],
+      ["cx\\(([^)]*)\\)", "[\"'`]([^\"'`]*).*?[\"'`]"]
+    ],
+    "tailwindCSS.experimental.configFile": "src/app/globals.css",
+    "files.associations": {
+      "*.css": "tailwindcss"
+    },
+
+    // TypeScript: use the workspace copy of TS (matches next's typed-routes
+    // plugin), not whatever version ships with the editor.
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "typescript.enablePromptUseWorkspaceTsdk": true,
+
+    // JSON: site-data.json and the message catalogs are hand-edited content,
+    // not generated — keep them readable rather than minified on save.
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+
+    // Locale message files must stay in exact key parity — see README §1.
+    // Nothing enforces this at edit time; the check is the node one-liner
+    // documented there. This just keeps both files visible side by side.
+    "workbench.editor.customLabels.patterns": {
+      "messages/fr.json": "messages/fr.json (French — default locale)",
+      "messages/en.json": "messages/en.json (English)"
+    },
+
+    // Noise reduction: generated output, dependencies, and the gitignored
+    // lead-fallback store never need to be searched or browsed.
+    "files.exclude": {
+      "**/.next": true,
+      "**/node_modules": true,
+      "**/data": true
+    },
+    "search.exclude": {
+      "**/.next": true,
+      "**/node_modules": true,
+      "**/data": true,
+      "**/*.webp": true,
+      "package-lock.json": true
+    },
+    "files.watcherExclude": {
+      "**/.next/**": true,
+      "**/node_modules/**": true
+    }
+  },
+  "extensions": {
+    "recommendations": [
+      // Matches eslint.config.mjs (next/core-web-vitals + next/typescript).
+      "dbaeumer.vscode-eslint",
+      // Project uses Tailwind v4 with @theme tokens in globals.css.
+      "bradlc.vscode-tailwindcss",
+      // Not yet configured in the repo, but recommended for the JSON/TS/TSX
+      // formatting rules referenced in settings above.
+      "esbenp.prettier-vscode",
+      // Surfaces content/MISSING.md's TODO list, the TODO_EMAIL constant,
+      // and the TodoChip markers in contact.tsx/site-footer.tsx in one panel
+      // — the real, load-bearing TODOs in this codebase, not stray comments.
+      "gruntfuggly.todo-tree",
+      // next-intl relies on the App Router's [locale] segment; this catches
+      // broken imports across src/i18n, src/app/[locale], etc.
+      "christian-kohler.path-intellisense"
+    ]
+  }
+}
